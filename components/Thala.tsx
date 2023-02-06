@@ -10,7 +10,7 @@ export default function Thala() {
         rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
       />
-      <link
+      <links
         rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css"
       />

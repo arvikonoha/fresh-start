@@ -20,11 +20,16 @@ const manifest = {
   },
   islands: {
     "./islands/Counter.tsx": $$0,
-    "./islands/TodoCreationForm.tsx": $$1,
+    // HEAD
+'<<<<<< HEAD
+    "./islands/TodoCreationForm.tsx': $$1,
     "./islands/TodoItem.tsx": $$2,
     "./islands/TodoList.tsx": $$3,
     "./islands/TodoListContainer.tsx": $$4,
-  },
+    //
+'======
+    "./islands/TodoList.tsx': $$1,
+  }, //99eb9cb98cd5e50b5c83f224c9f874849ebef9da
   baseUrl: import.meta.url,
   config,
 };
